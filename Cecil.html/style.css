@@ -1,0 +1,123 @@
+header{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+
+}
+
+.cecil{
+    border-radius: 8px;
+    align-items: center;
+    position: relative;
+    height: 40px;
+    border-width: 1px;
+    border-style: groove;
+    color: black;
+    width: calc(100% - 40px);
+    text-align: center;
+    font-size: 16px;
+    border-color: rgba(22, 24, 35, .12);
+    padding-top: 12px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+div{
+    text-align: center;
+    color: darkgrey;
+    font-size: 17px;
+}
+body{
+    background-color: white;
+}
+.separate{
+    color: rgb(0, 0, 0);
+}
+hr{
+    border-style: groove;
+}
+.legal{
+    color: red;
+}
+.login-form{
+    width: 363px;
+    margin: auto;
+}
+.tiktok-rjqfbd-DivIconContainer{
+    left: 23em;
+    font-size: 20px;
+    position: absolute;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 13px;
+}
+.tiktok-rjqfbd-DivIconContainer1{
+    left: 23em;
+    font-size: 20px;
+    position: absolute;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 13px;
+    color: black;
+}
+.tiktok-15ou8u4-DivHeaderContainer-StyledHeaderContainer {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: space-around;
+    -ms-flex-pack: space-around;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12);
+    height: 60px;
+    width: calc(100% - 0px);
+    top: 0;
+    position: fixed;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 1);
+    z-index: 1000;
+    box-shadow: none;
+    padding: 0 20px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-padding-start: 16px;
+    padding-inline-start: 16px;
+}
+footer{
+   background-color: white;
+   padding: 20px;
+   width: 100%;
+   text-align: center;
+   position: fixed;
+   bottom: 0;
+   left: 0;
+}
+
+
+
+
+
+
+
+
+
